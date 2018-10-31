@@ -11,7 +11,8 @@ namespace MyTestGitConsole
         static void Main(string[] args)
         {
 
-            //This is my true test MJ Deep Test Water
+            //This is my true test MJ Deep Test Water 7 local test 
+			//Yep
 
         }
     }
